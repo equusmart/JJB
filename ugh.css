@@ -1,0 +1,94 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cinzel Decorative'  , serif;
+}
+h1 {
+  color: black;
+
+    font-family: 'Cinzel Decorative'  serif;
+    padding: 20px;
+}
+
+h2 {
+  font-weight:normal;
+  color: #483D8B;
+  font-size: 2.5rem;
+  font-family: 'Cinzel Decorative', serif;
+
+}
+h3 {
+
+  font-family: 'Poly', serif;
+  color: #2F4F4F;
+}
+a {
+  text-decoration: none;
+  font-family: 'Poly', serif;
+}
+a:hover {
+  color: white;
+}
+.top-container {
+background-color: #5F9EA0;
+
+position: relative;
+  }
+
+.middle-container {
+  background-color: #DCDCDC;
+    padding: 10px;
+
+
+}
+
+.bottom-container {
+  background-color: #5F9EA0;
+  padding: 50px 0 20px;
+
+}
+.contact-message {
+width: 40%;
+margin: 40px auto 60px;
+
+}
+.rider
+
+.BHSlogo-img {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  position: relative;
+  left: 20px;
+  bottom: 50px;
+
+}
+.btn {
+
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Cinzel Decorative';
+	font-size:20px;
+  margin-bottom: 20px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.Contact Me:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.Contact Me:active {
+	position:relative;
+	top:1px;
+}
+.copyright {
+  margin: 10px;
+}
